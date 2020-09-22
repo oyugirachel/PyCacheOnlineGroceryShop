@@ -47,7 +47,7 @@ export default class Header extends React.Component {
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="https://login-signup.vercel.app/">
                       <FontAwesomeIcon icon={faUser} />
                     </a>
                   </li>
