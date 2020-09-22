@@ -70,14 +70,14 @@ export default class TopNav extends React.Component {
                     </a>
                     <ul class="account_selection">
                       <li>
-                        <a href="#">
+                        <a href="https://login-signup.vercel.app/">
                           <i class="fa fa-sign-in" aria-hidden="true"></i>
                           <FontAwesomeIcon icon={faSignInAlt} />
                           Sign In
                         </a>
                       </li>
                       <li>
-                        <a href="#">
+                        <a href="https://login-signup.vercel.app/">
                           <FontAwesomeIcon icon={faUserPlus} />
                           Register
                         </a>
